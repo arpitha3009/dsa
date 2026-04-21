@@ -10,7 +10,7 @@ public class secondLargestElementInArray {
         for (int i = 0; i < arr.length; i++) {
 
             if (arr[i] > max) {
-                max2 = max;   // old max becomes second max
+                  // old max becomes second max
                 max = arr[i]; // update max
             }
 
