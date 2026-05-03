@@ -16,7 +16,7 @@ public class MissingInArray {
             arraySum += arr[i];
         }
         int r = sum - arraySum;
-        System.out.println(r);
+         System.out.println(r);
 
     }
 
