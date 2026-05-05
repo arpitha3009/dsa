@@ -18,6 +18,5 @@ public class arraylist {
         System.out.println(arrl.get(1));
         System.out.println(arrl.size());
 
-
     }
 }
