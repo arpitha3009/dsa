@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MissingInArray {
     public static void main(String args[]) {
-
+//it always start from 1 only
     int[] arr = {1,3,2,7,6,4};
 
 
