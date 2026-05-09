@@ -1,6 +1,7 @@
 package array;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class arraylist {
     public static void main (String[] args){
@@ -17,6 +18,8 @@ public class arraylist {
 
         System.out.println(arrl.get(1));
         System.out.println(arrl.size());
+        Collections.reverse(arrl);
+        System.out.println(arrl);
 
     }
 }
